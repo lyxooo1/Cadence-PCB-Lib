@@ -1,0 +1,1 @@
+STAMP_60x40-f.dra

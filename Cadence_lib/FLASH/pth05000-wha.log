@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PTH05000-WHA.dra                              )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Thu Jul 10 09:39:40 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/Cadence_Lib/FLASH
+    Name      = pth05000-wha.psm
+    User      = Administrator
+    Machine   = YIXIAO-LIU
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,29 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Parameter File READ                                              )
+(                                                                     )
+(    Drawing          : STAMP_60x40-F.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Jan 11 11:43:58 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+	Paramfile Name : F:/Cadence_config/package color configure.prm
+	Layout Name   : STAMP_60x40-F.dra
+
+Reading...parameter_header:
+Reading...db_common_type:
+Reading...grid_parms_type:
+Reading...UnusedPadsSuppressionSettings:
+Reading...color_table_table:
+Reading...ColorParmType:
+Reading...text_size_table:
+Reading...ifp_parm_type:
+Reading...probe_parm_type:
+Reading...ats_parm_type:
+Reading...ministat_parm_type:
+
+
+..... Total number of errors: 0.
+..... Total number of warnings: 0.

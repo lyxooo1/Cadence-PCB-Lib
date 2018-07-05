@@ -1,0 +1,19 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Mon Jan 11 12:00:00 2016
+\t (00:00:01)         Host=ZGC-20151215HFK User=Administrator Pid=6672 CPUs=4
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Database opened: F:/Cadence_Lib/FLASH/STAMP_60x40-f.dra
+\i (00:00:01) trapsize 23
+\i (00:00:01) trapsize 22
+\i (00:00:01) trapsize 23
+\i (00:00:01) trapsize 24
+\i (00:00:01) trapsize 24
+\i (00:00:02) etchedit 
+\i (00:00:03) open 
+\i (00:00:15) fillin "F:\Cadence_Lib\DRA\STAMP-1x4-2_00.dra"
+\i (00:00:15) cd "F:\Cadence_Lib\DRA"
+\t (00:00:15) Opening existing design...
+\t (00:00:15) Grids are drawn 0.5000, 0.5000 apart for enhanced viewability.
+\i (00:00:15) trapsize 2486
+\t (00:00:15)     Journal end - Mon Jan 11 12:00:14 2016
