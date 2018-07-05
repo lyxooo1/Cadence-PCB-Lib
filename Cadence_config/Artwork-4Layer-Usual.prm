@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<CadenceAllegroParameter xmlns="">
+
+  <parameter_header>
+    <version>16.6</version>
+  </parameter_header>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>G-OUTLINE</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>OUTLINE</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>F-SILKSCREEN_BTM</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SILKSCREEN_BOTTOM</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>E-SILKSCREEN_TOP</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>REF DES</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SILKSCREEN_TOP</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>D-SOLDMASK_BTM</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SOLDERMASK_BOTTOM</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>C-SOLDMASK_TOP</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>BOARD GEOMETRY</class>
+      <subclass>SOLDERMASK_TOP</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>B-PASTEMASK_BTM</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PASTEMASK_BOTTOM</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>A-PASTEMASK_TOP</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>PASTEMASK_TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PACKAGE GEOMETRY</class>
+      <subclass>PASTEMASK_TOP</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>4-ETCH_BTM</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>BOTTOM</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>BOTTOM</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>3-ETCH_PWR</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>3_PWR</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>3_PWR</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>3_PWR</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>2-ETCH_GND</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>2_GND</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>2_GND</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>2_GND</subclass>
+    </art_class_type>
+  </artwork_film>
+
+  <artwork_film>
+    <art_film_type>
+      <film_negative>false</film_negative>
+      <sequence>0</sequence>
+      <film_name>1-ETCH_TOP</film_name>
+      <ipc2581_layer_name/>
+      <undef_line_width>0.000 MIL</undef_line_width>
+      <no_of_wheels>10</no_of_wheels>
+      <wheelnum>1</wheelnum>
+      <wheelnum>2</wheelnum>
+      <wheelnum>3</wheelnum>
+      <wheelnum>4</wheelnum>
+      <wheelnum>5</wheelnum>
+      <wheelnum>6</wheelnum>
+      <wheelnum>7</wheelnum>
+      <wheelnum>8</wheelnum>
+      <wheelnum>9</wheelnum>
+      <wheelnum>10</wheelnum>
+      <film_mask>480</film_mask>
+    </art_film_type>
+    <art_film_block_type>
+      <mirror_code>0</mirror_code>
+      <rotate_code>0</rotate_code>
+      <offset>0.000,0.000</offset>
+      <block_name/>
+      <block_negative>false</block_negative>
+      <draw_pad>false</draw_pad>
+      <flash_unconnect_pads>true</flash_unconnect_pads>
+      <full_contact>false</full_contact>
+      <aper_rot>false</aper_rot>
+      <fill_out_shapes>true</fill_out_shapes>
+      <vector_based>1</vector_based>
+      <draw_holes>0</draw_holes>
+      <shape_bound>100.000 MIL</shape_bound>
+    </art_film_block_type>
+    <art_class_type>
+      <class>VIA CLASS</class>
+      <subclass>TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>PIN</class>
+      <subclass>TOP</subclass>
+    </art_class_type>
+    <art_class_type>
+      <class>ETCH</class>
+      <subclass>TOP</subclass>
+    </art_class_type>
+  </artwork_film>
+
+</CadenceAllegroParameter>
